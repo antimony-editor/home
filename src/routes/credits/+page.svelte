@@ -34,8 +34,8 @@
                 <a href="https://github.com/ddededodediamante">ddededodediamante</a>
             </li>
             <li>
-                <img src="https://github.com/vedal789.png" alt="vedal789's avatar">
-                <a href="https://github.com/vedal789">vedal789</a>
+                <img src="https://github.com/asterpawz.png" alt="asterpawz's avatar">
+                <a href="https://github.com/asterpawz">asterpawz</a>
             </li>
             <li>
                 <img src="https://github.com/PuzzlingGGG.png" alt="PuzzlingGGG's avatar">
