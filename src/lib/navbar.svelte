@@ -23,6 +23,7 @@
             <a href={LINK.editor}>Create</a>
             <a href="/credits">Credits</a>
             <a href={LINK.discord} class="btn-link">Discord</a>
+            <a href={LINK.desktop} class="btn-link">Desktop</a>
         </div>
     </div>
 </div>
