@@ -22,8 +22,8 @@
                 <a href="https://github.com/thedotun">thedotun</a>
             </li>
             <li>
-                <img src="https://github.com/UnbraveChimp.png" alt="UnbraveChimp's avatar">
-                <a href="https://github.com/UnbraveChimp">UnbraveChimp</a>
+                <img src="https://github.com/doodles172.png" alt="Doodles172's avatar">
+                <a href="https://github.com/doodles172">Doodles172</a>
             </li>
             <li>
                 <img src="https://github.com/LordCat0.png" alt="LordCat0's avatar">
