@@ -1,5 +1,4 @@
 <script>
-    import favicon from "/logo.svg";
     import "$lib/assets/style.css";
 
     let { children } = $props();
@@ -7,7 +6,7 @@
 
 <svelte:head>
     <title>Antimony - Home</title>
-    <link rel="icon" href={favicon} />
+    <link rel="icon" href="/logo.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link
         rel="preconnect"
